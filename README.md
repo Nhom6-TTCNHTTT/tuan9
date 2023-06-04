@@ -1,1 +1,2 @@
-# tuan9
+# Tuần 9
+# Hình dung màn hình
